@@ -1,16 +1,15 @@
 {
   "name": "corporal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "corporal",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "license": "MIT",
       "dependencies": {
         "colors": "^1.4.0",
-        "readcommand": "^0.4.0",
         "sprintf-js": "^1.1.2",
         "underscore": "^1.13.7"
       },
@@ -3158,18 +3157,6 @@
       },
       "engines": {
         "node": ">= 6"
-      }
-    },
-    "node_modules/readcommand": {
-      "version": "0.4.0",
-      "resolved": "https://registry.npmjs.org/readcommand/-/readcommand-0.4.0.tgz",
-      "integrity": "sha512-41QcOdvUJHfdOw2ucVyb8A5w/yC4MgpyS1yUDhYyswuPdGNBGFSVhGXuXWn4b4vl0vhYgZI4OyNTc7Nib3k4/g==",
-      "license": "MIT",
-      "dependencies": {
-        "underscore": "1.13.1"
-      },
-      "engines": {
-        "node": ">=0.8"
       }
     },
     "node_modules/readdirp": {
